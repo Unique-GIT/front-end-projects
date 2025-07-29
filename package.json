@@ -1,0 +1,24 @@
+{
+  "name": "frontend_projects",
+  "version": "1.0.0",
+  "description": "I'm trying to learn CSS and then moving forward tailwind CSS via these projects . It seems like a pretty useful thing to have , particularly when you want to make a website . One can always import components , but where's the customization in that !",
+  "main": "index.js",
+  "scripts": {
+  "deploy": "gh-pages -d ."
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Unique-GIT/front-end-projects.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Unique-GIT/front-end-projects/issues"
+  },
+  "homepage": "https://github.com/Unique-GIT/front-end-projects#readme",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
