@@ -25,11 +25,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 This is a cropped screenshot of the component styled 
 
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
 ### Built with
 
 - CSS custom properties
@@ -43,7 +38,7 @@ The major challenge for me , was positioning the elements correctly as well figu
 ### Continued development
 
 I wish to continue refining on dynamic positioning with respect to the window size , that hasn't been good for this project. Also , looking forward to learning more on positioning various elements on the screen via flexbox and grid and their varying usecases.
-The main goal is to host a site using React+Tailwind CSS .
+The main goal is to host a site using React+Tailwind CSS . I also wish to learn a bit more about hosting websites.
 
 ### Useful resources
 
